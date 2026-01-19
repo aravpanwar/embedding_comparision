@@ -13,3 +13,7 @@ __pycache__/
 *.venv/
 env/
 ENV/
+
+
+*.pdf
+.DS_Store
