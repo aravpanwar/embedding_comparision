@@ -4,13 +4,8 @@ This repository provides a framework to benchmark the performance and efficiency
 
 ## Benchmark Results
 
- Model              Recall@3   MRR          Time
- 
- Nomic-V1 (Local)       0.6  0.624444     26.46
-Qwen-0.6B (Local)       0.6  0.622500    320.18
-  Cohere-V3 (API)       0.4  0.457524      2.46
-BGE-Small (Local)       0.6  0.445000      7.51
- Google-005 (API)       0.4  0.438889      2.24
+<img width="485" height="222" alt="image" src="https://github.com/user-attachments/assets/17e92a83-26d7-48e9-b5ef-f28d3d59376a" />
+
 
 
 ---
