@@ -91,7 +91,7 @@ def run_benchmark():
         ("Qwen-0.6B (Local)", lambda: SentenceTransformer(
             'Qwen/Qwen3-Embedding-0.6B', 
             device='cpu', 
-            model_kwargs={"torch_dtype": torch.float16}
+            model_kwargs={"dtype": torch.float16}
         ))
     ]
     
