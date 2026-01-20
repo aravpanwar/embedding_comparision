@@ -4,9 +4,7 @@ This repository provides a framework to benchmark the performance and efficiency
 
 ## Benchmark Results
 
-<img width="485" height="222" alt="image" src="https://github.com/user-attachments/assets/17e92a83-26d7-48e9-b5ef-f28d3d59376a" />
-
-
+<img width="751" height="992" alt="image" src="https://github.com/user-attachments/assets/08b390cc-33a3-4acf-af25-a6a78002a9e5" />
 
 ---
 
